@@ -2,9 +2,8 @@
 
 # MUSEU-NACIONAL
 
-# SOBRE
-
 Iniciando um site de um Museu Nacional lecionado pela Udemy, com o intuíto de aprimorar os estudos de HTML5, CSS3, JavaScript, Git e GitHub.
+
 Estudos estes mesclado entre:
 
 * [ JavaScript com Gustavo Guanabara ](https://github.com/gustavoguanabara)
