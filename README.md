@@ -1,4 +1,4 @@
-<img src="imagens/museu.png" align="right" width="300">
+<img src="img/museu.png" align="right" width="300">
 
 # MUSEU-NACIONAL
 
