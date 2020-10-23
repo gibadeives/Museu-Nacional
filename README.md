@@ -1,15 +1,14 @@
-# MUSEU-NACIONAL
-
 <img src="imagens/museu.png" align="right" width="300">
 
+# MUSEU-NACIONAL
 
 # SOBRE
 
 Iniciando um site de um Museu Nacional lecionado pela Udemy, com o intuíto de aprimorar os estudos de HTML5, CSS3, JavaScript, Git e GitHub.
 Estudos estes mesclado entre:
 
-*[ JavaScript com Gustavo Guanabara ] (https://github.com/gustavoguanabara)
-*[ Desenvolvimento Web Completo ] (https://www.udemy.com/course/web-completo)
-*[ Versionamento Git e GitHub ] (https://digitalinnovation.one/)
+* [ JavaScript com Gustavo Guanabara ](https://github.com/gustavoguanabara)
+* [ Desenvolvimento Web Completo ](https://www.udemy.com/course/web-completo)
+* [ Versionamento Git e GitHub ](https://digitalinnovation.one/)
 
 
