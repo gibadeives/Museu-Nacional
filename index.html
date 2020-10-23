@@ -42,18 +42,33 @@
         <div id="principal"><!--Iníco principal-->
             
             <div id="conteudo"><!--Iníco conteúdo-->
-                
                 <section id="capa"><!--Iníco da Seção-->
                     <img src="img/museu.png">
-                </section><!--Fim da Seção-->
-                
+                </section><!--Fim da Seção-->                
             </div><!--Fim conteúdo-->
 
             <aside><!--Iníco lateral-->
-                
                 <section id="depoimento"><!--Iníco da Seção-->
                     <img src="img/depoimento.png">
-                </section><!--Fim da Seção-->
+                </section><!--Fim da Seção-->  
+
+                <section id="visita"><!--Iníco da Seção-->
+                    <h4>Faça uma visita</h4>
+                    <form><!--Iníco de Formulário-->
+                        <fieldset>
+                            <legend>Selecione uma data</legend>
+                            
+                            <label for="data">Data</label>
+                            <input class="campo" type="text" id="data" value="dd/mm/aaaa">
+                            
+                            <label for="qtd">Qtd de Pessoas</label>
+                            <input class="campo" style="width: 30px;" type="text" id="qtd" value="1">
+
+                        </fieldset>
+                        <input class="botao" type="submit" value="Verificar disponibilidade">
+
+                    </form>
+                </section><!--Fim de Formulário-->
 
             </aside><!--Fim lateral-->
 
